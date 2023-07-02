@@ -1,7 +1,7 @@
-
+svg
 <div align="center">
   <p>
-    <img width="256" height="256" alt="My personal logo." src="./Limer.png">
+    <img width="512" height="512" alt="Limer Logo." src="https://raw.githubusercontent.com/Limer-Software/.github/main/profile/Limer.png">
   </p>
 
   Work in progress...
